@@ -1,0 +1,246 @@
+brand,model,part,price
+HONDA,City,Bonnet,15000
+HONDA,City,Bumper,10000
+HONDA,City,Dickey,8000
+HONDA,City,Door,20000
+HONDA,City,Fender,5000
+HONDA,City,Light,3000
+HONDA,City,Windshield,8000
+HONDA,Amaze,Bonnet,12000
+HONDA,Amaze,Bumper,8000
+HONDA,Amaze,Dickey,6000
+HONDA,Amaze,Door,18000
+HONDA,Amaze,Fender,4000
+HONDA,Amaze,Light,2500
+HONDA,Amaze,Windshield,7000
+HONDA,WR-V,Bonnet,16000
+HONDA,WR-V,Bumper,11000
+HONDA,WR-V,Dickey,9000
+HONDA,WR-V,Door,22000
+HONDA,WR-V,Fender,6000
+HONDA,WR-V,Light,3500
+HONDA,WR-V,Windshield,9000
+HONDA,Jazz,Bonnet,14000
+HONDA,Jazz,Bumper,9000
+HONDA,Jazz,Dickey,7000
+HONDA,Jazz,Door,19000
+HONDA,Jazz,Fender,4500
+HONDA,Jazz,Light,2800
+HONDA,Jazz,Windshield,8000
+HONDA,HR-V,Bonnet,18000
+HONDA,HR-V,Bumper,12000
+HONDA,HR-V,Dickey,10000
+HONDA,HR-V,Door,24000
+HONDA,HR-V,Fender,7000
+HONDA,HR-V,Light,4000
+HONDA,HR-V,Windshield,10000
+HONDA,Pilot,Bonnet,22000
+HONDA,Pilot,Bumper,15000
+HONDA,Pilot,Dickey,13000
+HONDA,Pilot,Door,28000
+HONDA,Pilot,Fender,8000
+HONDA,Pilot,Light,5000
+HONDA,Pilot,Windshield,12000
+HONDA,CR-V,Bonnet,20000
+HONDA,CR-V,Bumper,13000
+HONDA,CR-V,Dickey,11000
+HONDA,CR-V,Door,26000
+HONDA,CR-V,Fender,7500
+HONDA,CR-V,Light,4500
+HONDA,CR-V,Windshield,11000
+HONDA,Accord,Bonnet,22000
+HONDA,Accord,Bumper,15000
+HONDA,Accord,Dickey,13000
+HONDA,Accord,Door,28000
+HONDA,Accord,Fender,8000
+HONDA,Accord,Light,5000
+HONDA,Accord,Windshield,12000
+HONDA,Civic,Bonnet,18000
+HONDA,Civic,Bumper,12000
+HONDA,Civic,Dickey,10000
+HONDA,Civic,Door,24000
+HONDA,Civic,Fender,7000
+HONDA,Civic,Light,4000
+HONDA,Civic,Windshield,10000
+"MARUTI SUZUKI",Swift,Bonnet,10000
+"MARUTI SUZUKI",Swift,Bumper,7000
+"MARUTI SUZUKI",Swift,Dickey,5000
+"MARUTI SUZUKI",Swift,Door,15000
+"MARUTI SUZUKI",Swift,Fender,3000
+"MARUTI SUZUKI",Swift,Light,2000
+"MARUTI SUZUKI",Swift,Windshield,6000
+"MARUTI SUZUKI",Baleno,Bonnet,12000
+"MARUTI SUZUKI",Baleno,Bumper,8000
+"MARUTI SUZUKI",Baleno,Dickey,6000
+"MARUTI SUZUKI",Baleno,Door,18000
+"MARUTI SUZUKI",Baleno,Fender,4000
+"MARUTI SUZUKI",Baleno,Light,2500
+"MARUTI SUZUKI",Baleno,Windshield,7000
+"MARUTI SUZUKI","Vitara Brezza",Bonnet,14000
+"MARUTI SUZUKI","Vitara Brezza",Bumper,9000
+"MARUTI SUZUKI","Vitara Brezza",Dickey,7000
+"MARUTI SUZUKI","Vitara Brezza",Door,20000
+"MARUTI SUZUKI","Vitara Brezza",Fender,4500
+"MARUTI SUZUKI","Vitara Brezza",Light,2800
+"MARUTI SUZUKI","Vitara Brezza",Windshield,8000
+"MARUTI SUZUKI","Wagon R",Bonnet,12000
+"MARUTI SUZUKI","Wagon R",Bumper,8000
+"MARUTI SUZUKI","Wagon R",Dickey,6000
+"MARUTI SUZUKI","Wagon R",Door,18000
+"MARUTI SUZUKI","Wagon R",Fender,4000
+"MARUTI SUZUKI","Wagon R",Light,2500
+"MARUTI SUZUKI","Wagon R",Windshield,7000
+"MARUTI SUZUKI",Ertiga,Bonnet,16000
+"MARUTI SUZUKI",Ertiga,Bumper,11000
+"MARUTI SUZUKI",Ertiga,Dickey,9000
+"MARUTI SUZUKI",Ertiga,Door,22000
+"MARUTI SUZUKI",Ertiga,Fender,6000
+"MARUTI SUZUKI",Ertiga,Light,3500
+"MARUTI SUZUKI",Ertiga,Windshield,9000
+"MARUTI SUZUKI","Grand Vitara",Bonnet,18000
+"MARUTI SUZUKI","Grand Vitara",Bumper,12000
+"MARUTI SUZUKI","Grand Vitara",Dickey,10000
+"MARUTI SUZUKI","Grand Vitara",Door,24000
+"MARUTI SUZUKI","Grand Vitara",Fender,7000
+"MARUTI SUZUKI","Grand Vitara",Light,4000
+"MARUTI SUZUKI","Grand Vitara",Windshield,10000
+TOYOTA,Corolla,Bonnet,20000
+TOYOTA,Corolla,Bumper,13000
+TOYOTA,Corolla,Dickey,11000
+TOYOTA,Corolla,Door,26000
+TOYOTA,Corolla,Fender,7500
+TOYOTA,Corolla,Light,4500
+TOYOTA,Corolla,Windshield,11000
+TOYOTA,Camry,Bonnet,22000
+TOYOTA,Camry,Bumper,15000
+TOYOTA,Camry,Dickey,13000
+TOYOTA,Camry,Door,28000
+TOYOTA,Camry,Fender,8000
+TOYOTA,Camry,Light,5000
+TOYOTA,Camry,Windshield,12000
+TOYOTA,Fortuner,Bonnet,25000
+TOYOTA,Fortuner,Bumper,17000
+TOYOTA,Fortuner,Dickey,15000
+TOYOTA,Fortuner,Door,30000
+TOYOTA,Fortuner,Fender,9000
+TOYOTA,Fortuner,Light,6000
+TOYOTA,Fortuner,Windshield,14000
+TOYOTA,Innova,Bonnet,23000
+TOYOTA,Innova,Bumper,16000
+TOYOTA,Innova,Dickey,14000
+TOYOTA,Innova,Door,29000
+TOYOTA,Innova,Fender,8500
+TOYOTA,Innova,Light,5500
+TOYOTA,Innova,Windshield,13000
+TOYOTA,Yaris,Bonnet,18000
+TOYOTA,Yaris,Bumper,12000
+TOYOTA,Yaris,Dickey,10000
+TOYOTA,Yaris,Door,24000
+TOYOTA,Yaris,Fender,7000
+TOYOTA,Yaris,Light,4000
+TOYOTA,Yaris,Windshield,10000
+HYUNDAI,i20,Bonnet,15000
+HYUNDAI,i20,Bumper,10000
+HYUNDAI,i20,Dickey,8000
+HYUNDAI,i20,Door,20000
+HYUNDAI,i20,Fender,5000
+HYUNDAI,i20,Light,3000
+HYUNDAI,i20,Windshield,8000
+HYUNDAI,Creta,Bonnet,18000
+HYUNDAI,Creta,Bumper,12000
+HYUNDAI,Creta,Dickey,10000
+HYUNDAI,Creta,Door,24000
+HYUNDAI,Creta,Fender,7000
+HYUNDAI,Creta,Light,4000
+HYUNDAI,Creta,Windshield,10000
+HYUNDAI,Verna,Bonnet,16000
+HYUNDAI,Verna,Bumper,11000
+HYUNDAI,Verna,Dickey,9000
+HYUNDAI,Verna,Door,22000
+HYUNDAI,Verna,Fender,6000
+HYUNDAI,Verna,Light,3500
+HYUNDAI,Verna,Windshield,9000
+HYUNDAI,Venue,Bonnet,17000
+HYUNDAI,Venue,Bumper,11500
+HYUNDAI,Venue,Dickey,9500
+HYUNDAI,Venue,Door,23000
+HYUNDAI,Venue,Fender,6500
+HYUNDAI,Venue,Light,3750
+HYUNDAI,Venue,Windshield,9500
+HYUNDAI,Tucson,Bonnet,20000
+HYUNDAI,Tucson,Bumper,13000
+HYUNDAI,Tucson,Dickey,11000
+HYUNDAI,Tucson,Door,26000
+HYUNDAI,Tucson,Fender,7500
+HYUNDAI,Tucson,Light,4500
+HYUNDAI,Tucson,Windshield,11000
+NISSAN,Altima,Bonnet,18000
+NISSAN,Altima,Bumper,13000
+NISSAN,Altima,Dickey,11000
+NISSAN,Altima,Door,24000
+NISSAN,Altima,Fender,7000
+NISSAN,Altima,Light,4000
+NISSAN,Altima,Windshield,10000
+NISSAN,Rogue,Bonnet,20000
+NISSAN,Rogue,Bumper,14000
+NISSAN,Rogue,Dickey,12000
+NISSAN,Rogue,Door,26000
+NISSAN,Rogue,Fender,7500
+NISSAN,Rogue,Light,4500
+NISSAN,Rogue,Windshield,11000
+NISSAN,Sentra,Bonnet,17000
+NISSAN,Sentra,Bumper,12000
+NISSAN,Sentra,Dickey,10000
+NISSAN,Sentra,Door,22000
+NISSAN,Sentra,Fender,6500
+NISSAN,Sentra,Light,3750
+NISSAN,Sentra,Windshield,9500
+NISSAN,Pathfinder,Bonnet,18000
+NISSAN,Pathfinder,Bumper,13000
+NISSAN,Pathfinder,Dickey,11000
+NISSAN,Pathfinder,Door,24000
+NISSAN,Pathfinder,Fender,7000
+NISSAN,Pathfinder,Light,4000
+NISSAN,Pathfinder,Windshield,10000
+NISSAN,Titan,Bonnet,20000
+NISSAN,Titan,Bumper,14000
+NISSAN,Titan,Dickey,12000
+NISSAN,Titan,Door,26000
+NISSAN,Titan,Fender,7500
+NISSAN,Titan,Light,4500
+NISSAN,Titan,Windshield,11000
+SKODA,Octavia,Bonnet,20000
+SKODA,Octavia,Bumper,14000
+SKODA,Octavia,Dickey,12000
+SKODA,Octavia,Door,26000
+SKODA,Octavia,Fender,7500
+SKODA,Octavia,Light,4500
+SKODA,Octavia,Windshield,11000
+SKODA,Superb,Bonnet,22000
+SKODA,Superb,Bumper,15000
+SKODA,Superb,Dickey,13000
+SKODA,Superb,Door,28000
+SKODA,Superb,Fender,8000
+SKODA,Superb,Light,5000
+SKODA,Superb,Windshield,12000
+SKODA,Rapid,Bonnet,18000
+SKODA,Rapid,Bumper,12000
+SKODA,Rapid,Dickey,10000
+SKODA,Rapid,Door,24000
+SKODA,Rapid,Fender,7000
+SKODA,Rapid,Light,4000
+SKODA,Rapid,Windshield,10000
+SKODA,Kodiaq,Bonnet,22000
+SKODA,Kodiaq,Bumper,15000
+SKODA,Kodiaq,Dickey,13000
+SKODA,Kodiaq,Door,28000
+SKODA,Kodiaq,Fender,8000
+SKODA,Kodiaq,Light,5000
+SKODA,Kodiaq,Windshield,12000
+SKODA,Karoq,Bonnet,19000
+SKODA,Karoq,Bumper,13500
+SKODA,Karoq,Dickey,11500
+SKODA,Karoq,Door,25000
+SKODA,Karoq,Fender,7250
+SKODA,Karoq,Light,4250
+SKODA,Karoq,Windshield,10500
